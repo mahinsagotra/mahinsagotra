@@ -2,8 +2,8 @@
 
 ## I'm a Developer and Pre-Final Year Student!!
 
-- 🌱 I’m currently learning Full-Stack Web Development 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning Full-Stack Web Development (MERN stack)🤣
+- 🥅 2021 Goals: Contribute more to Open Source projects and Internship Projects
 - ⚡ Fun fact: I love to watch movies and web-series
 
 ### Spotify Playing 🎧
