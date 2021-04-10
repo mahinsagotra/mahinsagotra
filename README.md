@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning Full-Stack Web Development (MERN stack)🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects and Internship Projects
 - ⚡ Fun fact: I love to watch movies and web-series
+- 📧 Reach me: mahinsagotra18@gmail.com
 
 ### Spotify Playing 🎧
 
