@@ -34,6 +34,8 @@
 <br />
 <br />
 
+[![Mahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahinsagotra&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/liyahshaikh/github-readme-stats)
+
 ---
 
 [instagram]: https://www.instagram.com/_mahin_sagotra/
