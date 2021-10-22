@@ -2,8 +2,8 @@
 
 ## I'm a Developer and Pre-Final Year Student!!
 
-- 🌱 I’m currently learning Full-Stack Web Development (MERN stack)🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects and Internship Projects
+- 🌱 I’m currently trying to learn Deep Learning🤣
+- 🥅 2021 Goals: Contribute more to Final Year Project
 - ⚡ Fun fact: I love to watch movies and web-series
 - 📧 Reach me: mahinsagotra18@gmail.com
 
