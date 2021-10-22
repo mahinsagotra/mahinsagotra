@@ -1,6 +1,6 @@
 ### Hi there, I'm Mahin Sagotra 👋
 
-## I'm a Developer and Pre-Final Year Student!!
+## I'm a Developer and Final Year Student!!
 
 - 🌱 I’m currently trying to learn Deep Learning🤣
 - 🥅 2021 Goals: Contribute more to Final Year Project
