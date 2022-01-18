@@ -3,9 +3,10 @@
 I'm a React/Front-end Web Developer and Senior Undergraduate who focuses on crafting clean and user-friendly experiences. Actively ready to join a great lively team. I'm able to adapt to any situation/environment with ease and perform the best.
 
 - 🌱 I’m currently trying to learn Deep Learning🤣
-- 🥅 2021 Goals: Contribute more to Final Year Project
-- ⚡ Fun fact: I love to watch movies and web-series
-- 📧 Reach me: mahinsagotra18@gmail.com
+- 🥅 2021 Goals : Contribute more to Final Year Project
+- ⚡ Fun fact : I love to watch movies and web-series
+- 📧 Reach me : mahinsagotra18@gmail.com
+- 🔤 [Resume](https://drive.google.com/file/d/1XvbPf5Fuys9jieNd9yoscsYjEOWsq0AK/view?usp=sharing)
 
 ### Spotify Playing 🎧
 
