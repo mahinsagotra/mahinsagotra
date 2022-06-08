@@ -6,7 +6,7 @@ I'm a React/Front-end Web Developer and Senior Undergraduate who focuses on craf
 - 🥅 2021 Goals : Contribute more to Final Year Project
 - ⚡ Fun fact : I love to watch movies and web-series
 - 📧 Reach me : mahinsagotra18@gmail.com
-- 🔤 [Resume](https://drive.google.com/file/d/1XvbPf5Fuys9jieNd9yoscsYjEOWsq0AK/view?usp=sharing)
+- 🔤 [Resume](https://drive.google.com/file/d/1DgMwdVr6ZfqYQzYHfLLjvVkhnm8HU7X9/view?usp=sharing)
 
 ### Spotify Playing 🎧
 
