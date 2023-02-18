@@ -1,6 +1,6 @@
 ### Hi there, I'm Mahin Sagotra 👋
 
-I'm a React/Front-end Web Developer and Senior Undergraduate who focuses on crafting clean and user-friendly experiences. Actively ready to join a great lively team. I'm able to adapt to any situation/environment with ease and perform the best.
+I'm a React/Front-end Web Developer and a Computer Science Graduate who focuses on crafting clean and user-friendly experiences. Actively ready to join a great lively team. I'm able to adapt to any situation/environment with ease and perform the best.
 
 - 🥅 2023 Goals : Explore latest trends in Web Domain, try to explore the field of Data Science
 - ⚡ Fun fact : I love to watch movies and web-series
