@@ -5,7 +5,7 @@ I'm a React/Front-end Web Developer and a Computer Science Graduate who focuses 
 - 🥅 2023 Goals : Explore latest trends in Web Domain, try to explore the field of Data Science
 - ⚡ Fun fact : I love to watch movies and web-series
 - 📧 Reach me : mahinsagotra18@gmail.com
-- 🔤 [Resume](https://drive.google.com/file/d/1DgMwdVr6ZfqYQzYHfLLjvVkhnm8HU7X9/view?usp=sharing)
+- 🔤 [Resume](https://drive.google.com/file/d/1m1Rf76Ie2wppASZaA7v3Zlr0n2z2UNol/view?usp=sharing)
 
 ### Spotify Playing 🎧
 
