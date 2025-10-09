@@ -20,7 +20,7 @@ I'm a React/Front-end Web Developer and a Computer Science Graduate who focuses 
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://shorturl.at/bKOt9" />][vscode]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />][vscode]
 [<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png" />][html]
 [<img align="left" alt="CSS3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png" />][css]
 [<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png?20120221235433" />][js]
@@ -50,4 +50,5 @@ I'm a React/Front-end Web Developer and a Computer Science Graduate who focuses 
 [git]: https://git-scm.com/
 [github]: https://docs.github.com/en/
 [terminal]: https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
+
 
